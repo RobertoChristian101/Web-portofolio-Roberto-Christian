@@ -1,0 +1,4 @@
+<h1>Portofolio</h1>
+<p>Website ini merupakan website portofolio pribadi yang dibuat untuk menampilkan profil, keterampilan, dan informasi kontak Roberto Christian (saya sendiri). Website ini bertujuan untuk memperkenalkan diri serta menunjukkan minat dan kemampuan di bidang teknologi informasi, khususnya dalam pengembangan web dan aplikasi mobile.
+Website ini dibuat menggunakan HTML dan CSS untuk menyusun struktur halaman serta mengatur tampilan agar terlihat rapi dan mudah dipahami. Di dalamnya terdapat beberapa bagian utama seperti Home, Biografi, Skills, dan Kontak yang berisi informasi singkat mengenai profil, kemampuan yang dimiliki, serta cara untuk menghubungi pemilik portofolio.
+Fitur dari web ini hanya pada navigasinya, yaitu navigasi Home, Biografi, Skills, dan Kontak yang nantinya jika di klik akan menuju ke bagiannya masing-masing.</p>
